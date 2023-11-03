@@ -1,0 +1,48 @@
+body{
+    background-image: url('C:/Users/ADMIN/Desktop/typhoid test site/images/v.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.722);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-shadow: 5px 5px 5px black;
+}
+.main-conatainer{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.form-conatianer{
+    background-color: rgba(128, 128, 128, 0.492);
+    border-radius: 50px;
+    padding-top: 1rem;
+    padding-bottom: -1rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+}
+
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+
+}
